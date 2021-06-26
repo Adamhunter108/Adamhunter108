@@ -4,12 +4,9 @@
 <!-- <img src="https://64.media.tumblr.com/385739a529a06f6cf8cdc30bf08706ca/tumblr_o2tj040fCY1tooympo1_400.gifv"> -->
 <br>
 
-|[check out a recent blog post](https://adamhunter.website/#//blog)|
-|---|
+|[check out a recent blog post](https://adamhunter.website/#//blog)|[email me](mailto:adamhunter928@gmail.com)|
+|---|---|
 
-
-|[email me](mailto:adamhunter928@gmail.com)|
-|---|
 
 
 
