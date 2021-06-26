@@ -2,9 +2,8 @@
 <!-- <img src="https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/02/oops.gif"> -->
 <img src="https://64.media.tumblr.com/385739a529a06f6cf8cdc30bf08706ca/tumblr_o2tj040fCY1tooympo1_400.gifv">
 
-
 <details>
-<summary>How I code:</summary>
+<summary>Working on a project:</summary>
 <img src="http://media3.giphy.com/media/MF1kR4YmC2Z20/giphy.gif" width="500">
 </details>
 
