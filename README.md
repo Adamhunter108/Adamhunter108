@@ -1,7 +1,7 @@
-![bg](purple)
-
 Adam Hunter
 ======================================
+<img src="https://data.whicdn.com/images/3861504/original.gif">
+
 
 <details>
 <summary>How I code:</summary>
