@@ -5,7 +5,8 @@
 <br>
 |[check out a blog post](https://adamhunter.website/#//blog)|
 |---|
-
+|[email me](mailto:adamhunter928@gmail.com)|
+|---|
 <br>
 
 |[email me](mailto:adamhunter928@gmail.com)|
