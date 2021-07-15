@@ -5,15 +5,14 @@
 <br>
 
 
-
-
-
-
-<details>
-<summary></summary>
 |[check out a recent blog post](https://adamhunter.website/#//blog)|[email me](mailto:adamhunter928@gmail.com)|
 |---|---|
-</details>
+
+
+
+<!-- <details>
+<summary></summary>
+</details> -->
 
 
 <!---
