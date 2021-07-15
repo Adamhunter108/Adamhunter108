@@ -4,15 +4,15 @@
 <!-- <img src="https://64.media.tumblr.com/385739a529a06f6cf8cdc30bf08706ca/tumblr_o2tj040fCY1tooympo1_400.gifv"> -->
 <br>
 
-|[check out a recent blog post](https://adamhunter.website/#//blog)|[email me](mailto:adamhunter928@gmail.com)|
-|---|---|
+
 
 
 
 
 <details>
 <summary></summary>
-<img src="http://media3.giphy.com/media/MF1kR4YmC2Z20/giphy.gif" width="500">
+|[check out a recent blog post](https://adamhunter.website/#//blog)|[email me](mailto:adamhunter928@gmail.com)|
+|---|---|
 </details>
 
 
