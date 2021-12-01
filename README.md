@@ -28,10 +28,16 @@ You can click the Preview link to take a look at your changes.
 | :----: | :----: |
 | <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="50" height="50"/> | <br>
 
-<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="50" height="50"/> <br>
+| JavaScript | Node.js | React |
+| :----: | :----: | :----: |
+| <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="50" height="50"/> | <br>
 
-<img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="50" height="50"/> <br>
+| Redux | Bootstrap |
+| :----: | :----: |
+| <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="50" height="50"/> | <br>
 
-<img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="50" height="50"/>
+| PostgreSQL | MongoDB |
+| :----: | :----: |
+| <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="50" height="50"/> |
 
 ---
