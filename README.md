@@ -24,10 +24,10 @@ You can click the Preview link to take a look at your changes.
 
 ### 🧰 Toolbox: 
 
-
+`
 | Python | Django | Flask |
 | :----: | :----: | :----: |
-| <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" width="50" height="50"/> | <br>
+| <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" width="50" height="50"/> | `<br>
 
 | JavaScript | Node.js | React | Express | Next.js |
 | :----: | :----: | :----: | :----: | :----: |
