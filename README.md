@@ -42,6 +42,6 @@ You can click the Preview link to take a look at your changes.
 
 | AWS | Heroku | Netlify |
 | :----: | :----: | :----: |
-| <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/heroku-4" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/netlify" width="50" height="50"/> |
+| <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/heroku-4.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" width="50" height="50"/> |
 
 ---
