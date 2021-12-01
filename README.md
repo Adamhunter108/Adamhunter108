@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-### `🧰 Toolbox`
+# `🧰 Toolbox`
 
 | Python | Django | Flask |
 | :----: | :----: | :----: |
@@ -32,9 +32,9 @@ You can click the Preview link to take a look at your changes.
 | :----: | :----: | :----: | :----: | :----: |
 | <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="50" height="50"/> | <br>
 
-| Redux | Bootstrap | Material-UI |
-| :----: | :----: | :----: |
-| <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" width="50" height="50"/> | <br>
+| Redux | Bootstrap | Material-UI | GraphQL |
+| :----: | :----: | :----: | :----: |
+| <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/graphql.svg" width="50" height="50"/> | <br>
 
 | PostgreSQL | MongoDB | SQLite |
 | :----: | :----: | :----: |
