@@ -41,7 +41,7 @@ You can click the Preview link to take a look at your changes.
 | <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" width="50" height="50"/> | <br>
 
 | AWS | Heroku | Netlify | Docker |
-| :----: | :----: | :----: |
+| :----: | :----: | :----: | :----: |
 | <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/heroku-4.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" width="50" height="50"/> |
 
 ---
