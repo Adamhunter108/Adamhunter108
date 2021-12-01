@@ -24,7 +24,9 @@ You can click the Preview link to take a look at your changes.
 
 ### `🧰 Toolbox`
 
-<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="50" height="50"/> <br>
+| Python | Django |
+| :----: | :----: |
+| <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="50" height="50"/> | <br>
 
 <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="50" height="50"/> <br>
 
