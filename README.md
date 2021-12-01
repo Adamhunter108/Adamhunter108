@@ -24,7 +24,6 @@ You can click the Preview link to take a look at your changes.
 
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="50" height="50"/> 
 
 ---
