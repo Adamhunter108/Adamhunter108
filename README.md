@@ -1,11 +1,11 @@
-### I'm Adam, I'm a self-taught full-stack developer
+### I'm Adam, a full-stack developer.
 ---
 <!-- <img src="https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/02/oops.gif"> -->
 <!-- <img src="https://64.media.tumblr.com/385739a529a06f6cf8cdc30bf08706ca/tumblr_o2tj040fCY1tooympo1_400.gifv"> -->
 <br>
 
 
-|[check out a recent blog post](https://adamhunter.website/#//blog)|[email me](mailto:adamhunter928@gmail.com)|
+|[check out a recent blog post](https://adamhunter.website/#//blog)|[get in touch](mailto:adamhunter928@gmail.com)|
 |---|---|
 
 
@@ -40,8 +40,8 @@ You can click the Preview link to take a look at your changes.
 | :----: | :----: | :----: |
 | <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" width="50" height="50"/> | <br>
 
-| AWS | Heroku | Netlify |
+| AWS | Heroku | Netlify | Docker |
 | :----: | :----: | :----: |
-| <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/heroku-4.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" width="50" height="50"/> |
+| <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/heroku-4.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" width="50" height="50"/> |
 
 ---
