@@ -45,4 +45,6 @@ You can click the Preview link to take a look at your changes.
 | :----: | :----: | :----: | :----: |
 | <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/heroku-4.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" width="50" height="50"/> |
 
+
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/python.svg" />
 ---
