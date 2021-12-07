@@ -4,6 +4,7 @@
   <summary>Bio</summary>
 > Adam is a full-stack developer specializing in Python and React. Adam brings over ten years of varied professional experience along with a lifetime of diverse soft and technical skills to his career in software development. These skills include: project management, project development, sales and purchasing, client and internal relationship building, music composition on multiple instruments, digital audio recording, and SaaS (software as a service) development.
 </details>
+
 ---
 <!-- <img src="https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/02/oops.gif"> -->
 <!-- <img src="https://64.media.tumblr.com/385739a529a06f6cf8cdc30bf08706ca/tumblr_o2tj040fCY1tooympo1_400.gifv"> -->
