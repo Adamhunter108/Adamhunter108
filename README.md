@@ -1,8 +1,8 @@
 ### I'm Adam, a full-stack developer from New York City.  💻🗽  
 
 <details>
-  <summary>Bio</summary>
-> Adam is a full-stack developer specializing in Python and React. Adam brings over ten years of varied professional experience along with a lifetime of diverse soft and technical skills to his career in software development. These skills include: project management, project development, sales and purchasing, client and internal relationship building, music composition on multiple instruments, digital audio recording, and SaaS (software as a service) development.
+<summary>Bio</summary>
+Adam is a full-stack developer specializing in Python and React. Adam brings over ten years of varied professional experience along with a lifetime of diverse soft and technical skills to his career in software development. These skills include: project management, project development, sales and purchasing, client and internal relationship building, music composition on multiple instruments, digital audio recording, and SaaS (software as a service) development.
 </details>
 
 ---
