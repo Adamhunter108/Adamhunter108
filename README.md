@@ -11,7 +11,7 @@ Adam is a full-stack developer specializing in Python and JavaScript/React. Adam
 <br>
 
 
-|[check out a recent blog post](https://adamhunter.website/#//blog)|[get in touch](mailto:adamhunter928@gmail.com)|
+|[check out a recent blog post](https://adamhunter.website/blog/)|[get in touch](mailto:adamhunter928@gmail.com)|
 |---|---|
 
 
