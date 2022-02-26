@@ -2,7 +2,7 @@
 
 <details>
 <summary>Bio</summary>
-Adam is a full-stack developer specializing in Python and JavaScript/React. Adam brings over ten years of varied professional experience along with a lifetime of diverse soft and technical skills to his career in software development. These skills include: project management, project development, sales and purchasing, client and internal relationship building, music composition on multiple instruments, digital audio recording, SaaS (software as a service) and web development.
+I am a full-stack developer specializing in Python and JavaScript/React. I love helping people build websites and apps.
 </details>
 
 ---
@@ -11,7 +11,9 @@ Adam is a full-stack developer specializing in Python and JavaScript/React. Adam
 <br>
 
 
-|[check out a recent blog post](https://adamhunter.website/blog/)|[get in touch](mailto:adamhunter928@gmail.com)|
+|[check out a recent blog post](https://adamhunter.website/blog/)|[get in touch](mailto:adam@adamhunter.website
+
+ )|
 |---|---|
 
 
