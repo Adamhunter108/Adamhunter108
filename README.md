@@ -11,9 +11,7 @@ I am a full-stack developer specializing in Python and JavaScript/React. I love 
 <br>
 
 
-|[check out a recent blog post](https://adamhunter.website/blog/)|[get in touch](mailto:adam@adamhunter.website
-
- )|
+|[check out a recent blog post](https://adamhunter.website/blog/)|[get in touch](mailto:adam@adamhunter.website)|
 |---|---|
 
 
