@@ -11,7 +11,7 @@ I am a full-stack developer specializing in Python and JavaScript/React. I love 
 <br>
 
 
-|[check out a recent blog post](https://adamhunter.website/blog/)|[get in touch](mailto:adam@adamhunter.website)|
+|[check out a recent blog post](https://adam-nextjs-site.vercel.app/blog)|[get in touch](mailto:adamhunter928@gmail.com)|
 |---|---|
 
 
@@ -30,25 +30,24 @@ You can click the Preview link to take a look at your changes.
 
 ### 🧰 Toolbox: 
 
+| JavaScript | Node.js | React | Express | Next.js |
+| :----: | :----: | :----: | :----: | :----: |
+| <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="50" height="50"/> | <br>
+
+| Tailwind CSS | Redux | Bootstrap | Material-UI | GraphQL |
+| :----: | :----: | :----: | :----: | :----: |
+| <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/graphql.svg" width="50" height="50"/> | <br>
 
 | Python | Django | Flask |
 | :----: | :----: | :----: |
 | <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" width="50" height="50"/> | <br>
 
-| JavaScript | Node.js | React | Gatsby | Express | Next.js |
-| :----: | :----: | :----: | :----: | :----: | :----: |
-| <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/gatsby.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="50" height="50"/> | <br>
-
-| Redux | Bootstrap | Material-UI | Tailwind CSS | GraphQL |
-| :----: | :----: | :----: | :----: | :----: |
-| <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/graphql.svg" width="50" height="50"/> | <br>
-
 | PostgreSQL | MongoDB | SQLite |
 | :----: | :----: | :----: |
 | <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" width="50" height="50"/> | <br>
 
-| AWS | Heroku | Netlify | Docker |
-| :----: | :----: | :----: | :----: |
-| <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/heroku-4.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" width="50" height="50"/> |
+| AWS | Heroku | Netlify | Vercel | Docker |
+| :----: | :----: | :----: | :----: | :----: |
+| <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/heroku-4.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" width="50" height="50"/> |
 
 ---
