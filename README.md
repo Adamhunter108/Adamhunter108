@@ -11,7 +11,7 @@ I am a full-stack developer specializing in Python and JavaScript/React. I love 
 <br>
 
 
-|[check out a recent blog post](https://adam-nextjs-site.vercel.app/blog)|[get in touch](mailto:adamhunter928@gmail.com)|
+|[check out a recent blog post](https://www.adamhunter.website/blog)|[get in touch](mailto:adamhunter928@gmail.com)|
 |---|---|
 
 
