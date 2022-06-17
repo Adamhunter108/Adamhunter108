@@ -30,9 +30,9 @@ You can click the Preview link to take a look at your changes.
 
 ### 🧰 Toolbox: 
 
-| JavaScript | Node.js | React | Express | Next.js |
+| JavaScript | Node.js | React | Next.js | Express |
 | :----: | :----: | :----: | :----: | :----: |
-| <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="50" height="50"/> | <br>
+| <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" width="50" height="50"/> | <br>
 
 | Tailwind CSS | Redux | Bootstrap | Material-UI | GraphQL |
 | :----: | :----: | :----: | :----: | :----: |
