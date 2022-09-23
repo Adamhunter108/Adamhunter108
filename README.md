@@ -50,3 +50,4 @@ You can click the Preview link to take a look at your changes.
 ---
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Adamhunter108&theme=neon-dark)](https://git.io/streak-stats)
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=adamhunter108&show_icons=true&theme=dark&locale=en&layout=compact" alt="more-stats" /></p>
