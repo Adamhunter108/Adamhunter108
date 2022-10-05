@@ -1,4 +1,4 @@
-## `About`
+## ℹ️ `About`
 ### I'm Adam, a full-stack developer from New York City.  💻🗽  
 
 <details>
@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-### 🧰 Toolbox: 
+### 🧰 `Toolbox`: 
 
 | JavaScript | TypeScript | Node.js | React | Next.js | 
 | :----: | :----: | :----: | :----: | :----: |
@@ -50,7 +50,8 @@ You can click the Preview link to take a look at your changes.
 ---
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Adamhunter108&theme=neon-dark)](https://git.io/streak-stats)     
-
+<!---
 ![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs?username=adamhunter108&show_icons=true&theme=dark&locale=en&layout=compact&count_private=true&hide=scss)
+-->
 
 
