@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-### 🧰 `Toolbox`: 
+### 🧰 `Toolbox`  
 
 | JavaScript | TypeScript | Node.js | React | Next.js | 
 | :----: | :----: | :----: | :----: | :----: |
