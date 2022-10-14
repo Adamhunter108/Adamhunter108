@@ -3,7 +3,7 @@
 
 <details>
 <summary>More...</summary>
-I love using cutting edge technologies to bring ideas to life. With an emphasis on web development, I specialize in JavaScript and Python.     
+I love using cutting edge technologies to bring ideas to life. With an emphasis on web development, I specialize in JavaScript/TypeScript and Python.     
 </details>
 
 ---
