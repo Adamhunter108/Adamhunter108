@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 
 | Tailwind CSS | Redux | Bootstrap | Material-UI | GraphQL |
 | :----: | :----: | :----: | :----: | :----: |
-| <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/graphql.svg" width="50" height="50"/> | <br>
+| <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" width="50" height="50"/> | <img src="https://cdn.worldvectorlogo.com/logos/graphql-logo-2.svg" width="50" height="50"/> | <br>
 
 | Python | Django | Flask |
 | :----: | :----: | :----: |
@@ -53,6 +53,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- ![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs?username=adamhunter108&show_icons=true&theme=dark&locale=en&layout=compact&count_private=true&hide=scss) -->
 
-<img src="https://www.codewars.com/users/Adamhunter108/badges/micro"/>
+<!-- <img src="https://www.codewars.com/users/Adamhunter108/badges/micro"/> -->
+![Code Wars](https://www.codewars.com/users/Adamhunter108/badges/micro)
 
 
