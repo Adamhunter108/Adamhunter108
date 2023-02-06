@@ -54,6 +54,6 @@ You can click the Preview link to take a look at your changes.
 <!-- ![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs?username=adamhunter108&show_icons=true&theme=dark&locale=en&layout=compact&count_private=true&hide=scss) -->
 
 <!-- <img src="https://www.codewars.com/users/Adamhunter108/badges/micro"/> -->
-![Code Wars](https://www.codewars.com/users/Adamhunter108/badges/micro)
+![Code Wars](https://www.codewars.com/users/Adamhunter108/badges/small)
 
 
