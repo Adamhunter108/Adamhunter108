@@ -1,5 +1,5 @@
 <!-- ## ℹ️ `About`-->
-### I'm Adam, a full-stack developer from New York City.  💻🗽  
+<!-- ### I'm Adam, a full-stack developer from New York City.  💻🗽 --> 
 <!-- 
 <details>
 <summary>More...</summary>
